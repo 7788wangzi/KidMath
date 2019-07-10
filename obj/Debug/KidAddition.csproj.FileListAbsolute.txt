@@ -1,0 +1,7 @@
+D:\CodeLibrary\2020\KidAddition\bin\Debug\KidAddition.exe.config
+D:\CodeLibrary\2020\KidAddition\bin\Debug\KidAddition.exe
+D:\CodeLibrary\2020\KidAddition\bin\Debug\KidAddition.pdb
+D:\CodeLibrary\2020\KidAddition\obj\Debug\KidAddition.csprojAssemblyReference.cache
+D:\CodeLibrary\2020\KidAddition\obj\Debug\KidAddition.csproj.CoreCompileInputs.cache
+D:\CodeLibrary\2020\KidAddition\obj\Debug\KidAddition.exe
+D:\CodeLibrary\2020\KidAddition\obj\Debug\KidAddition.pdb
